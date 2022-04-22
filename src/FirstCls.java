@@ -4,5 +4,6 @@ public class FirstCls {
         System.out.println("deneme1");
         System.out.println("denemeGit");
         System.out.println("denemeİntelj");
+        System.out.println("denemeGİT2");
     }
 }
